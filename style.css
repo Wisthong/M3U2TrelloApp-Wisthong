@@ -1,0 +1,18 @@
+
+body{
+    background-color: ghostwhite;
+}
+#actividad,#haciendo,#porcentaje{
+    background-color: #bde0fe;
+    padding: 20px 8px;
+}
+
+#hacer,#realizado{
+    background-color: #e63946;
+    padding: 20px 8px;
+    
+}
+
+#hacer,#realizado,.cajita{
+    color: white;
+}
