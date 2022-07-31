@@ -8,6 +8,7 @@
 
 .section-status-title 
 {
+  text-align: center;
   font-size: var(--fp-large);
   color: var(--c-text-dark);
 }

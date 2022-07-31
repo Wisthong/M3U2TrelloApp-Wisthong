@@ -19,13 +19,14 @@
 .button.button-primary 
 {
   color: var(--c-text-light);
-  background-color: var(--c-second-main);
+  background-color: blue;
+  /* background-color: var(--c-second-main); */
 }
 
 .button.button-secondary.ghost
 {
-  background-color: transparent;
-  color: var(--c-text-dark);
+  background-color: gold;
+  color: var(--c-text-light);
 } 
 
 .button.button-secondary.ghost:hover
