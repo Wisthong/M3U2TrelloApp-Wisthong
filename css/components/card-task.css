@@ -5,6 +5,7 @@
   border-radius: var(--border-radius-md);
   /* transition: var(--duration-transition-base); */
   cursor: pointer;
+  border: 5px solid #84a98c;
 }
 
 .card-task:hover
